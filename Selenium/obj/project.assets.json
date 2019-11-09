@@ -808,7 +808,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ravi Kant Pal\\.nuget\\packages\\": {},
+    "C:\\Users\\Ravi\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -817,14 +817,14 @@
       "projectUniqueName": "E:\\ASP_CORE\\Selenium_Work\\Selenium\\Selenium\\Selenium.csproj",
       "projectName": "Selenium",
       "projectPath": "E:\\ASP_CORE\\Selenium_Work\\Selenium\\Selenium\\Selenium.csproj",
-      "packagesPath": "C:\\Users\\Ravi Kant Pal\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Ravi\\.nuget\\packages\\",
       "outputPath": "E:\\ASP_CORE\\Selenium_Work\\Selenium\\Selenium\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ravi Kant Pal\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Ravi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"

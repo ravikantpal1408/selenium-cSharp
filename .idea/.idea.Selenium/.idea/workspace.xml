@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="779358c8-4c4f-44b8-b10e-8e1700f88cdc" name="Default Changelist" comment="" />
+    <list default="true" id="779358c8-4c4f-44b8-b10e-8e1700f88cdc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Selenium/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Selenium/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Selenium/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Selenium/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/bin/Debug/netcoreapp2.2/Selenium.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/bin/Debug/netcoreapp2.2/Selenium.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/bin/Debug/netcoreapp2.2/Selenium.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/bin/Debug/netcoreapp2.2/Selenium.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/bin/Debug/netcoreapp2.2/Selenium.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/bin/Debug/netcoreapp2.2/Selenium.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/obj/Debug/netcoreapp2.2/Selenium.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/obj/Debug/netcoreapp2.2/Selenium.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/obj/Debug/netcoreapp2.2/Selenium.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/obj/Debug/netcoreapp2.2/Selenium.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/obj/Debug/netcoreapp2.2/Selenium.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/obj/Debug/netcoreapp2.2/Selenium.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/obj/Debug/netcoreapp2.2/Selenium.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/obj/Debug/netcoreapp2.2/Selenium.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/obj/Debug/netcoreapp2.2/Selenium.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/obj/Debug/netcoreapp2.2/Selenium.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/obj/Selenium.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/obj/Selenium.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/obj/Selenium.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/obj/Selenium.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/obj/project.assets.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,24 +24,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Selenium/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="234">
+              <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
               <folding>
-                <marker date="1571900388768" expanded="true" signature="6:67" ph="..." />
-                <marker date="1571900388768" expanded="true" signature="87:647" ph="{...}" />
-                <marker date="1571900388768" expanded="true" signature="107:645" ph="{...}" />
-                <marker date="1571900388768" expanded="true" signature="203:257" ph="{...}" />
-                <marker date="1571900388768" expanded="true" signature="315:639" ph="{...}" />
+                <marker date="1572172074593" expanded="true" signature="6:97" ph="..." />
+                <marker date="1572172074593" expanded="true" signature="117:1726" ph="{...}" />
+                <marker date="1572172074593" expanded="true" signature="137:1724" ph="{...}" />
+                <marker date="1572172074593" expanded="true" signature="242:296" ph="{...}" />
+                <marker date="1572172074593" expanded="true" signature="354:1370" ph="{...}" />
+                <marker date="1572172074593" expanded="true" signature="793:1042" ph="{...}" />
+                <marker date="1572172074593" expanded="true" signature="846:1028" ph="{...}" />
+                <marker date="1572172074593" expanded="true" signature="1075:1317" ph="{...}" />
+                <marker date="1572172074593" expanded="true" signature="1418:1538" ph="{...}" />
+                <marker date="1572172074593" expanded="true" signature="1596:1718" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Selenium/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -38,7 +61,14 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.Selenium/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -49,29 +79,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Selenium" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -116,11 +138,23 @@
       <option name="presentableId" value="Default" />
       <updated>1571896314620</updated>
       <workItem from="1571896317839" duration="2585000" />
+      <workItem from="1571948214571" duration="647000" />
+      <workItem from="1572079548285" duration="104000" />
+      <workItem from="1572154538622" duration="273000" />
+      <workItem from="1572170249787" duration="1906000" />
+      <workItem from="1572173302985" duration="10000" />
+      <workItem from="1572274458599" duration="212000" />
+      <workItem from="1572286386442" duration="44000" />
+      <workItem from="1572287126916" duration="78000" />
+      <workItem from="1572375924404" duration="27000" />
+      <workItem from="1572376001709" duration="43000" />
+      <workItem from="1572376269034" duration="165000" />
+      <workItem from="1572376596166" duration="62000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2585000" />
+    <option name="totallyTimeSpent" value="6156000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -134,18 +168,9 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18175721" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21395037" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" weight="0.32916668" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Performance Profiler" />
-      <window_info anchor="bottom" id="Build" weight="0.32916668" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32916668" />
@@ -153,18 +178,27 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32916668" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.32916668" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32916668" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -177,16 +211,28 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Selenium/debug.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Selenium/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="234">
+          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
           <folding>
-            <marker date="1571900388768" expanded="true" signature="6:67" ph="..." />
-            <marker date="1571900388768" expanded="true" signature="87:647" ph="{...}" />
-            <marker date="1571900388768" expanded="true" signature="107:645" ph="{...}" />
-            <marker date="1571900388768" expanded="true" signature="203:257" ph="{...}" />
-            <marker date="1571900388768" expanded="true" signature="315:639" ph="{...}" />
+            <marker date="1572172074593" expanded="true" signature="6:97" ph="..." />
+            <marker date="1572172074593" expanded="true" signature="117:1726" ph="{...}" />
+            <marker date="1572172074593" expanded="true" signature="137:1724" ph="{...}" />
+            <marker date="1572172074593" expanded="true" signature="242:296" ph="{...}" />
+            <marker date="1572172074593" expanded="true" signature="354:1370" ph="{...}" />
+            <marker date="1572172074593" expanded="true" signature="793:1042" ph="{...}" />
+            <marker date="1572172074593" expanded="true" signature="846:1028" ph="{...}" />
+            <marker date="1572172074593" expanded="true" signature="1075:1317" ph="{...}" />
+            <marker date="1572172074593" expanded="true" signature="1418:1538" ph="{...}" />
+            <marker date="1572172074593" expanded="true" signature="1596:1718" ph="{...}" />
           </folding>
         </state>
       </provider>
